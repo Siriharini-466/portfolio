@@ -15,7 +15,6 @@ Production-ready personal portfolio built with **React 18**, **Vite**, **Tailwin
 npm install
 npm run dev
 ```
-
 Open the URL printed in the terminal (typically `http://localhost:5173`).
 
 ## Production build
